@@ -1,1 +1,2 @@
-Hi This is to add one new file. 
+Hi This is to add one new file.
+Adding new line to learn merge. 
