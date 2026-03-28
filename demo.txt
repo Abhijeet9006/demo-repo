@@ -1,2 +1,4 @@
 Hi This is to add one new file.
-Adding new line to learn merge. 
+Adding new line to learn merge.
+Adding git stash.
+ 
