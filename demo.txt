@@ -1,4 +1,4 @@
 Hi This is to add one new file.
 Adding new line to learn merge.
 Adding git stash.
- 
+Adding line for conflict. 
